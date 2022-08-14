@@ -1,0 +1,85 @@
+{
+    "name": "DogeShiba List",
+    "logoURI": "https://doshib.net/assets/Logo.webpg",
+    "keywords": [
+        "DogeChain",
+        "defi",
+        "Doge",
+        "bridge"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0xA0eB9a6063Df850F611AA69C60025c7f8eB4d6ee",
+            "decimals": 18,
+            "name": "DogeShiba",
+            "symbol": "DOSHIB",
+            "logoURI": "https://doshib.net/assets/Logo.webp"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+            "decimals": 18,
+            "name": "Wrapped Doge",
+            "symbol": "WWDoge",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/usdt.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/usdc.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dai.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "decimals": 18,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/eth.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "decimals": 18,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/wbtc.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+            "decimals": 18,
+            "name": "Doge Eat Doge",
+            "symbol": "OMNOM",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
+        }
+        
+        
+
+    ],
+    "timestamp": "2022-08-10T12:00:00+00:00"
+}
